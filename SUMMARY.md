@@ -19,7 +19,3 @@
 * [Changes](logs/changes.md)
 * [Dev Fund](logs/dev-fund.md)
 
----
-
-* [Untitled](untitled.md)
-
