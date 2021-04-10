@@ -24,8 +24,8 @@ Distribution of all 10,000 shares will be done via a distribution pool with the 
 
 | Deposit | Weight |
 | :--- | :--- |
-| DJINN-BUSD LP | 18 |
-| DJINNS-WBNB LP | 6 |
+| DJINN-BUSD LP | 16 |
+| DJINNS-WBNB LP | 8 |
 | Dev Share | 1 |
 
 Distribution pool will open at approximately 2021-04-10 04:00 GMT: [https://bscscan.com/block/countdown/6437637](https://bscscan.com/block/countdown/6437637)
