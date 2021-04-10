@@ -8,7 +8,7 @@ All names are subject to change.
 
 This simple lottery game will provide a fun way for people to win more DJINN.
 
-Target release date: 2021-04-10
+Target release date: Released!
 
 ## Bazaar
 
