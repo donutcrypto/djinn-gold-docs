@@ -1,6 +1,6 @@
 # Wishing Well
 
-Wishing well is a lottery game where players can choose how much they would like to win.
+[Wishing Well](https://www.wishingwell.gold/) is a lottery game where players can choose how much they would like to win.
 
 ## Mechanics
 
