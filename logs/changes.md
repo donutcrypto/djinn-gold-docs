@@ -8,6 +8,8 @@ Fixed APR for shares pools.
 
 Moved share pools to top of Lamp page.
 
+Disabled deposites into DJINN pools
+
 ## 2021-04-07
 
 Revealed share pools, they will still not open for 2 days!
