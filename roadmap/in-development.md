@@ -4,11 +4,11 @@ This page describes projects currently under development. If details are sparse,
 
 All names are subject to change.
 
-## Wishing Star
+## Wishing Well
 
 This simple lottery game will provide a fun way for people to win more DJINN.
 
-Target release date: Imminent
+Target release date: 2021-04-10
 
 ## Bazaar
 
