@@ -1,5 +1,15 @@
 # Changes
 
+## 2021-04-11
+
+Fixed UI bug which prevented deposits/withdrawals of over 1000.
+
+Fixed UI bug which caused the Max button to sometime put more than the available amount.
+
+Added "Buy Shares" button to Home.
+
+Added "\(+\), Add Liquidity" buttons to Lamp pools.
+
 ## 2021-04-10
 
 Added network tab.
