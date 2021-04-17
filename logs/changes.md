@@ -1,5 +1,13 @@
 # Changes
 
+## 2021-04-17
+
+Fixed Boardroom timer showing incorrect countdown.
+
+## 2021-04-16
+
+Fixed UI of Bond page.
+
 ## 2021-04-11
 
 Fixed UI bug which prevented deposits/withdrawals of over 1000.
