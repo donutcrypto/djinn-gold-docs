@@ -1,5 +1,9 @@
 # Changes
 
+## 2021-04-23
+
+Changed links to pancakeswap v1.
+
 ## 2021-04-17
 
 Fixed Boardroom timer showing incorrect countdown.
