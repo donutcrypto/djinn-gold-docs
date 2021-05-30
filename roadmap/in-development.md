@@ -4,17 +4,19 @@ This page describes projects currently under development. If details are sparse,
 
 All names are subject to change.
 
-## Wishing Well
+## [Wishing Well](https://www.wishingwell.gold/)
 
 This simple lottery game will provide a fun way for people to win more DJINN.
 
 Target release date: Released!
 
-## Bazaar
+## [Crossroad](https://www.crossroad.gold/)
 
-A new type of marketplace for people to buy and sell tokens and NFTs.
+A DEX aggregator with limit trading, OTC trading and a liquidity aggregator.
 
-Target release date: Q3 - 2021
+Additional features will continue to be developed.
+
+Target release date: 2021-06-01
 
 ## Panorama
 
